@@ -30,4 +30,4 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Start bot
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Hi! I'm your AI chatbot. Ask me anything."_
+    await update.message.reply_text("Hi! I'm your mewo . Ask me anything.")
